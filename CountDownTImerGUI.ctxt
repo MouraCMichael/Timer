@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CountDownTImerGUI
+comment1.params=
+comment1.target=CountDownTImerGUI()
+comment1.text=Constructor\ -\ instantiates\ and\ displays\ all\ of\ the\ GUI\ commponents
+comment2.params=x\ y\ h\ w
+comment2.target=java.awt.GridBagConstraints\ constraints(int,\ int,\ int,\ int)
+comment2.text=Assigns\ the\ Timer\ Buttons\ which\ called\ the\ function\ a\ location\ in\ the\ JFrame\ via\ grid\ points
+comment3.params=x\ y\ h\ w
+comment3.target=java.awt.GridBagConstraints\ constraintsLabels(int,\ int,\ int,\ int)
+comment3.text=Assigns\ the\ Labels\ which\ called\ the\ function\ a\ location\ in\ the\ JFrame\ via\ grid\ points
+comment4.params=x\ y\ h\ w
+comment4.target=java.awt.GridBagConstraints\ constraintsText(int,\ int,\ int,\ int)
+comment4.text=Assigns\ the\ Text\ fields\ which\ called\ the\ function\ a\ location\ in\ the\ JFrame\ via\ grid\ points
+comment5.params=x\ y\ h\ w
+comment5.target=java.awt.GridBagConstraints\ constraintsResets(int,\ int,\ int,\ int)
+comment5.text=Assigns\ the\ Reset\ Buttons\ which\ called\ the\ function\ a\ location\ in\ the\ JFrame\ via\ grid\ points
+comment6.params=arg
+comment6.target=void\ main(java.lang.String[])
+comment6.text=Main\ function\ is\ necisarry\ to\ run\ the\ GUI
+numComments=7

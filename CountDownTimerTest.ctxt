@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CountDownTimerTest
+comment1.params=
+comment1.target=void\ testConstructor()
+comment1.text=\ \n\ Here\ are\ some\ example\ JUnit\ test\ methods.\ \ Some\ of\ the\ test\ \n\ methods\ do\ several\ assertions,\ while\ others\ have\ only\ one\ assert.\ \ \n\ \t\tWhat\ so\ you\ think\ is\ a\ better\ approach?\n\ \ \tAre\ there\ situation\ where\ only\ one\ assertion\ is\ required?\n\ \ \ \ \ \n\ Your\ assignment\ is\ to\ write\ many\ test\ cases\ so\ that\ \n\ the\ CountDownTimer\ class\ is\ throughly\ tested\!\!\!\n\ \t\ \ \ How\ may\ \ test\ cases\ do\ I\ need?\n\ \n\ \ \ \ \ Good\ questions\ to\ ask\ in\ class.\n\ \n*****
+comment2.params=
+comment2.target=void\ testConstructorWithErrors()
+comment3.params=
+comment3.target=void\ testSubMethod()
+comment4.params=
+comment4.target=void\ testAddMethod()
+comment5.params=
+comment5.target=void\ testEqual()
+comment6.params=
+comment6.target=void\ testCompareTo()
+comment7.params=
+comment7.target=void\ testLoadSave()
+numComments=8
