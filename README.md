@@ -31,6 +31,10 @@ Find me on [LinkedIn](www.linkedin.com/in/corey-moura)
 
 <img width="400" height=”550” alt="screen shot 2018-11-05 at 11 25 05 am" src="https://user-images.githubusercontent.com/37875517/48011403-99fa7880-e0ed-11e8-8502-ad8ade76a9f9.png">
 
+<br/>
+<br/>
+
+<img width="433" alt="screen shot 2018-11-05 at 11 30 55 am" src="https://user-images.githubusercontent.com/37875517/48011677-4b011300-e0ee-11e8-9f0f-e9ef94b4d8be.png">
 
 
 </p>
