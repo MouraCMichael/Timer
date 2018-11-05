@@ -4,10 +4,7 @@ Three basic countdown timers.  Enter a time to countdown from and press reset to
 # Notes
 To run the program, clone the repository.  Once uploaded, open the project on your computer with your preffered IDE which runs Java.  Select and run the CountDownTimerGUI class.  
 
-Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)
-
-<br/>
-https://www.linkedin.com/in/corey-moura
+Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)      https://www.linkedin.com/in/corey-moura
 
 
 <br/>
