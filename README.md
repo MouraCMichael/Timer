@@ -7,7 +7,6 @@ To run the program, clone the repository.  Once uploaded, open the project on yo
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)
 
 <br/>
-
 https://www.linkedin.com/in/corey-moura
 
 
